@@ -10,6 +10,7 @@ import java.util.Scanner;
  * We will build our Pokemon, let them battle, and see who will be the winner!
  *
  * @see <a href="https://cs125.cs.illinois.edu/lab/9/">Lab 9 Description</a>
+ * Gautam Ajjarapu
  */
 public class Colosseum {
     /**
@@ -102,7 +103,10 @@ public class Colosseum {
      * (Look, we can return objects too!)
      */
     public static Pokemon buildPokemon() {
-        Pokemon returnPokemon = null;
+
+
+
+
         return returnPokemon;
     }
 
